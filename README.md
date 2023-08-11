@@ -1,10 +1,13 @@
 # HTML-Resume
+<p>
 In the process of creating a resume to get accepted into Prime Academy.
-
+</p>
+<p><b>
 The following minimum viable criteria must be met:
-
+<b></p>
+<p>
 The resume must:
-
+</p>
 <p>
 Include well-formatted HTML, using a text editor.
 </p>
