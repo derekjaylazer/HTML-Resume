@@ -5,8 +5,8 @@ The following minimum viable criteria must be met:
 
 The resume must:
 
-Include well-formatted HTML, using a text editor.
-Link a CSS file to your resume to add unique styling (explore colors, fonts, formatting etc.).
+<p>Include well-formatted HTML, using a text editor.</p>
+<p></p>Link a CSS file to your resume to add unique styling (explore colors, fonts, formatting etc.).</p>
 Be "hosted" (visible) through GitHub pages. 
 DO NOT use a Template.
 
