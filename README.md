@@ -17,7 +17,9 @@ Be "hosted" (visible) through GitHub pages. </p>
 DO NOT use a Template.
 </p>
 
+<p>
 Additional optional criteria will include:
+</p>
 <p>
 Images.
 </p>
