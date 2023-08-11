@@ -40,3 +40,12 @@ Anything that adds interactivity to the resume.
 Any working JavaScript code that I have authored.
 </p>
 
+<p><b>
+Outline
+</b></p>
+<p> 
+  The header will contain my name and links to my project and Linkedin account. 
+  There will be a section that highlights skills necessary for getting hired as a junior developer.
+  Document work experience for transferrable skills that can set me apart from other candidates.
+  Style the page with CSS and Javascript as time permits. 
+</b></p>
