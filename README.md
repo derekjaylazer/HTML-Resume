@@ -6,9 +6,9 @@ In the process of creating a resume to get accepted into Prime Academy.
 The following minimum viable criteria must be met:
 </b></p>
 
-<p>
+<p><b>
 The resume must:
-</p>
+</b></p>
 <p>
 Include well-formatted HTML, using a text editor.
 </p>
@@ -21,9 +21,9 @@ Be "hosted" (visible) through GitHub pages. </p>
 DO NOT use a Template.
 </p>
 
-<p>
+<p><b>
 Additional optional criteria will include:
-</p>
+</b></p>
 <p>
 Images.
 </p>
